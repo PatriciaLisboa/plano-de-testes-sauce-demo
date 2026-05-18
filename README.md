@@ -23,21 +23,16 @@ teste e bug reports, simulando o trabalho real de uma analista de QA Manual.
 
 ## Estrutura do repositório
 
-\`\`\`
 plano-de-testes-sauce-demo/
-  README.md
-  plano-de-testes/
-    plano-geral.md
-  casos-de-teste/
-    CT001-login.md
-  bug-reports/
-    BUG001-login-usuario-bloqueado.md
-  evidencias/
-    prints dos testes executados
-  templates/
-    template-caso-de-teste.md
-    template-bug-report.md
-\`\`\`
+README.md
+plano-de-testes/
+guia-de-pratica-semanal.md
+casos-de-teste/
+bug-reports/
+evidencias/
+templates/
+template-caso-de-teste.md
+template-bug-report.md
 
 ## Status do projeto
 
