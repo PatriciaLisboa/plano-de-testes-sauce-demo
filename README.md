@@ -36,4 +36,4 @@ template-bug-report.md
 
 ## Status do projeto
 
-Em andamento.
+Projeto concluído.
