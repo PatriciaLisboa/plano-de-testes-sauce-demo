@@ -1,10 +1,14 @@
-Foram executados 16 casos de teste.
+# Resultado da Execução dos Testes
 
-Resultado:
+Foram executados 16 casos de teste referentes às principais funcionalidades do Sauce Demo.
 
-- 16 aprovados;
-- nenhum defeito encontrado.
+## Resultado
 
-Observação:
+- Casos executados: 16;
+- Casos aprovados: 16;
+- Casos reprovados: 0;
+- Bugs encontrados: 0.
 
-O Sauce Demo trata-se de um ambiente de demonstração utilizado para estudos em Quality Assurance.
+## Conclusão
+
+Todos os casos de teste previstos foram executados com sucesso e nenhuma inconsistência funcional foi identificada durante a execução dos cenários planejados.
