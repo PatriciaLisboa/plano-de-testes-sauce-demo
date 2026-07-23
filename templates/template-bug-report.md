@@ -32,7 +32,7 @@ O sistema deverá impedir o acesso do usuário e apresentar a mensagem informand
 Mensagem de erro: "Epic sadface: Sorry, this user has been locked out."
 
 ## Evidência
-> Inserir print ou gif aqui
+> Inserir print do comportamento observado, se aplicável.
 
 ## Observações
 > Informações adicionais relevantes
