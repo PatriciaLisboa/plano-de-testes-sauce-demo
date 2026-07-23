@@ -36,4 +36,4 @@ Usuário redirecionado para a página de produtos com sucesso.
 - [ ] Bloqueado
 
 ## Evidência
-> Inserir print ou gif aqui
+> Inserir print da execução do teste, se aplicável.
