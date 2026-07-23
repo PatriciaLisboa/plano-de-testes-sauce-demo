@@ -26,15 +26,24 @@ teste e bug reports, simulando o trabalho real de uma analista de QA Manual.
 ## Estrutura do repositório
 
 plano-de-testes-sauce-demo/
+
 README.md
+
 plano-de-testes/
-guia-de-pratica-semanal.md
+└── plano-de-testes-saucedemo.md
+
 casos-de-teste/
+└── casos-de-teste.md
+
 bug-reports/
+└── resultado-dos-testes.md
+
 evidencias/
+└── evidencias-dos-testes.md
+
 templates/
-template-caso-de-teste.md
-template-bug-report.md
+├── template-caso-de-teste.md
+└── template-bug-report.md
 
 ## Status do projeto
 
