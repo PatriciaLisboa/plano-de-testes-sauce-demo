@@ -15,7 +15,7 @@ teste e bug reports, simulando o trabalho real de uma analista de QA Manual.
 - **URL:** https://www.saucedemo.com
 - **Tipo:** E-commerce fictício para prática de testes
 
-## Ferramentas utilizadas
+## Ambiente e Ferramentas Utilizadas
 
 - Documentação: Markdown
 - Versionamento: Git e GitHub
