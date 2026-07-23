@@ -26,7 +26,7 @@ Breve descrição do problema encontrado.
 4. Clicar em Login
 
 ## Resultado esperado
-Usuário deve conseguir acessar o sistema.
+O sistema deverá impedir o acesso do usuário e apresentar a mensagem informando que a conta está bloqueada.
 
 ## Resultado obtido
 Mensagem de erro: "Epic sadface: Sorry, this user has been locked out."
