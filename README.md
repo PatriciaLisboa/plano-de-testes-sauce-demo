@@ -20,6 +20,8 @@ teste e bug reports, simulando o trabalho real de uma analista de QA Manual.
 - Documentação: Markdown
 - Versionamento: Git e GitHub
 - Navegador: Firefox
+- Sistema operacional: Ubuntu 24.04
+- Aplicação testada: Sauce Demo
 
 ## Estrutura do repositório
 
